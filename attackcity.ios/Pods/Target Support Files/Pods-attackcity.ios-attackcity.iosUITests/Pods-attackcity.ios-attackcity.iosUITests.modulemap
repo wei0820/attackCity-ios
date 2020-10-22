@@ -1,0 +1,6 @@
+framework module Pods_attackcity_ios_attackcity_iosUITests {
+  umbrella header "Pods-attackcity.ios-attackcity.iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
